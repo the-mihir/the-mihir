@@ -1,24 +1,25 @@
-<h1 align="center">Hi, I'm Dimitris Karakaxas(☕💻❤️‍🔥)</h1>
+<h1 align="center">Hi, I'm Mihir Das(☕💻❤️‍🔥)</h1>
 
-<!-- Typing SVG by dimitriskarakaxas -->
+<!-- Typing SVG by Mihir Das -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3D87F7&size=24&center=true&width=825&lines=Front-end+web+developer;With+passion+to+create+next+level+website;Always+learning+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Front-End+Web+Developer;With+Passion+To+Create+Next+Level+Website;Always+Learning+Somethings+New)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/dimitris-karakaxas-7abbba211/">
-  <img align="left" alt="Dimitri's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<h3 align="left">Ping Me On</h3>
+<a href="https://www.linkedin.com/in/getmihir/">
+  <img align="left" alt="Mihir's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://wa.link/ti9r4f">
+<a href="https://wa.me/+8801740623262">
   <img align="left" alt="Dimitri's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/479px-WhatsApp.svg.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=dimitriskarakaxas.dimitriskarakaxas)
+![](https://visitor-badge.glitch.me/badge?page_id=the-mihir.the-mihir)
 
 <br>
 
 <!-- Intro section -->
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"/> Hi, I'm [Dimitris Karakaxas](https://github.com/dimitriskarakaxas), a passionate Full Stack Web Developer 🤩 from Greece 🇬🇷. I'm in the 3rd year of my studies in Computer Engineering with specialty in Software Engineering 👨‍💻.
-I love 🔥 working on Projects that can push my knowledge 🤯 to the next level. Even if my specialty is in Software Development generally, taking ideas and put them online 🌐 with a complete Frontend and Backend is my passion.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"/> Hi, I'm [Mihir Das](https://github.com/the-mihir), a passionate Front-End Web Developer 🤩 from Sylhet, BD. I am working as front end developer since 2016, specialy on web development 👨‍💻.
+I love 🔥 working on Projects that can push my knowledge 🤯 to the next level. Even if my specialty is in Front-End Development generally, taking ideas and put them online 🌐 with a complete web application using different programming language .
 
 <!-- Floating img -->
 
@@ -28,12 +29,13 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 
 ## More about me
 
-- 💪 Currently I'm working as a freelance software engineer
+- 💪 Currently I'm working as a freelance web developer
 - 💰 Looking for new clients who wants to work with me
 - 🤲 I'm looking forward to collaborate on any Open Source project which I consider it interesting
-- 💉 Addicted with Linux(Debian, Arch)
-- 🏆 2021 Goals:
+- 💉 Addicted with code
+- 🏆 2022 Goals:
   - Master React.
+  - Master Django.
   - Publish my portfolio.
   - Contribute and publish more open source projects.
 
@@ -42,19 +44,25 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 ## Languages and Tools
 
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
+<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
+<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"></code>
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"></code>
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"></code>
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"></code>
-<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
-<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"></code>
-<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"></code>
+<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
+<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg"></code>
+<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"></code>
+<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"></code>
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"></code>
-<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"></code>
-<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"></code>
 <code><img height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"></code>
+<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"></code>
+<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg"></code>
+<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"></code>
+<!-- 
+<code><img height="22" src=""></code>
+<code><img height="22" src=""></code> -->
