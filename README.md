@@ -12,7 +12,7 @@
   <img align="left" alt="Dimitri's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/479px-WhatsApp.svg.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=the-mihir.the-mihir)
+[!](https://visitor-badge.glitch.me/badge?page_id=the-mihir.the-mihir)
 
 <br>
 
