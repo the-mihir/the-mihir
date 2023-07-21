@@ -4,11 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Front-End+Web+Developer;With+Passion+To+Create+Next+Level+Website;Always+Learning+Somethings+New)](https://git.io/typing-svg)
 
-
-
 ![](https://visitor-badge.glitch.me/badge?page_id=the-mihir.the-mihir)
-
-<br>
 
 <!-- Intro section -->
 
