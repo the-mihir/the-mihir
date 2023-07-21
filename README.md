@@ -4,13 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Front-End+Web+Developer;With+Passion+To+Create+Next+Level+Website;Always+Learning+Somethings+New)](https://git.io/typing-svg)
 
-<h3 align="left">Ping Me On</h3>
-<!-- <a href="https://www.linkedin.com/in/getmihir/">
-  <img align="left" alt="Mihir's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> -->
-<a href="https://wa.me/+8801740623262">
-  <img align="left" alt="Dimitri's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/479px-WhatsApp.svg.png" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=the-mihir.the-mihir)
 
@@ -38,6 +32,14 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
   - Master Django.
   - Publish my portfolio.
   - Contribute and publish more open source projects.
+ 
+  - <h3 align="left">Ping Me On</h3>
+<!-- <a href="https://www.linkedin.com/in/getmihir/">
+  <img align="left" alt="Mihir's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a> -->
+<a href="https://wa.me/+8801740623262">
+  <img align="left" alt="Dimitri's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/479px-WhatsApp.svg.png" />
+</a>
 
 <br>
 
