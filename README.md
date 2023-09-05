@@ -2,14 +2,11 @@
 
 <!-- Typing SVG by Mihir Das -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Front-End+Web+Developer;With+Passion+To+Create+Next+Level+Website;Always+Learning+Somethings+New)](https://git.io/typing-svg)
-
-![](https://visitor-badge.glitch.me/badge?page_id=the-mihir.the-mihir)
 
 <!-- Intro section -->
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"/> Hi, I'm [Mihir Das](https://github.com/the-mihir), a passionate Front-End Web Developer 🤩 from Sylhet, BD. I am working as front end developer since 2016, specialy on web development 👨‍💻.
-I love 🔥 working on Projects that can push my knowledge 🤯 to the next level. Even if my specialty is in Front-End Development generally, taking ideas and put them online 🌐 with a complete web application using different programming language .
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"/> Hi, I'm [Mihir Das](https://github.com/the-mihir), a passionate Full stack (MERN) Web Developer 🤩 from Sylhet, BD. I am working as front end developer since 2016, specialy on web development 👨‍💻.
+I love 🔥 working on Projects that can push my knowledge 🤯 to the next level. Even if my specialty is in MERN stack Development generally, taking ideas and put them online 🌐 with a complete web application using different programming language .
 
 <!-- Floating img -->
 
