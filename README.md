@@ -45,8 +45,6 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"></code>
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg"></code>
-<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"></code>
-<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"></code>
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"></code>
