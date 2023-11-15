@@ -22,8 +22,6 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 - 💉 Addicted with code
 - 🏆 2023 Goals:
   - Master React.
-  - Master Django.
-  - Publish my portfolio.
   - Contribute and publish more open source projects.
  
   - <h3 align="left">Ping Me On</h3>
