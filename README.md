@@ -10,7 +10,7 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 
 <!-- Floating img -->
 
-<a href="https://app.daily.dev/mihirdas"><img src="https://api.daily.dev/devcards/28e43e1943034b5eb16d447b1b8d9870.png?r=ubd" width="400" alt="Mihir Das's Dev Card"/></a>
+<a href="https://app.daily.dev/mihirdas"><img src="https://api.daily.dev/devcards/28e43e1943034b5eb16d447b1b8d9870.png?r=ubd" width="350" alt="Mihir Das's Dev Card"/></a>
 <br>
 
 ## More about me
