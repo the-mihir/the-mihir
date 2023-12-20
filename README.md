@@ -5,11 +5,11 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"/> Hi, I'm [Mihir Das](https://github.com/the-mihir), a passionate Full stack (MERN) Web Developer 🤩 from Sylhet, BD. I am working as a front end developer since 2016, especially on web development 👨‍💻. I love 🔥 working on projects that can push my knowledge 🤯 to the next level. Even if my specialty is in MERN stack Development generally, taking ideas and put them online 🌐 with a complete web application using different programming languages.
 
 <!-- Floating img -->
-<a href="https://app.daily.dev/mihirdas"><img src="https://api.daily.dev/devcards/28e43e1943034b5eb16d447b1b8d9870.png?r=ubd" width="400" alt="Mihir Das's Dev Card"/></a>
+<a href="https://app.daily.dev/mihirdas"><img src="https://api.daily.dev/devcards/28e43e1943034b5eb16d447b1b8d9870.png?r=ubd" width="350" alt="Mihir Das's Dev Card"/></a>
 <br>
 
 ## More about me
-
+<div style="width: 40%; float: left;">
 - 💪 Currently I'm working as a freelance web developer
 - 💰 Looking for new clients who want to work with me
 - 🤲 I'm looking forward to collaborate on any Open Source project which I consider it interesting
@@ -22,6 +22,10 @@
 <a href="https://wa.me/+8801740623262">
   <img align="left" alt="Dimitri's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/479px-WhatsApp.svg.png" />
 </a>
+  
+</div>
+
+
 
 <br>
 
