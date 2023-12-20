@@ -10,7 +10,7 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 
 <!-- Floating img -->
 
-<img src="https://api.daily.dev/devcards/28e43e1943034b5eb16d447b1b8d9870.png?r=ubd" width="350" alt="Mihir Das's Dev Card"/>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350">
 
 <br>
 
