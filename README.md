@@ -20,8 +20,8 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 - 💰 Looking for new clients who wants to work with me
 - 🤲 I'm looking forward to collaborate on any Open Source project which I consider it interesting
 - 💉 Addicted with code
-- 🏆 2023 Goals:
-  - Master React.
+- 🏆 2024 Goals:
+  - Master MERN.
   - Contribute and publish more open source projects.
  
   - <h3 align="left">Ping Me On</h3>
