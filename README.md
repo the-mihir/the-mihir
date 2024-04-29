@@ -5,7 +5,7 @@
 
 <!-- Intro section -->
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"/> Hi, I'm [Mihir Das](https://github.com/the-mihir), a passionate Full stack (MERN) Web Developer 🤩 from Sylhet, BD. I am working as front end developer since 2016, specialy on web development 👨‍💻.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"/> Hi, I'm [Mihir Das](https://github.com/the-mihir), a passionate Full stack (MERN) Web Developer 🤩 from Sylhet, BD. I am working as fullstack developer, specialy on web development 👨‍💻.
 I love 🔥 working on Projects that can push my knowledge 🤯 to the next level. Even if my specialty is in MERN stack Development generally, taking ideas and put them online 🌐 with a complete web application using different programming language .
 
 <!-- Floating img -->
@@ -16,8 +16,8 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 
 ## More about me
 
-- 💪 Currently I'm working as a freelance web developer
-- 💰 Looking for new clients who wants to work with me
+- 💪 Currently I'm working as web developer
+- 💰 Looking for new opportunities who wants to work with me
 - 🤲 I'm looking forward to collaborate on any Open Source project which I consider it interesting
 - 💉 Addicted with code
 - 🏆 2024 Goals:
