@@ -38,9 +38,7 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-<code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"></code>
-
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"></code>
 <code><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"></code>
