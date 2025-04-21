@@ -19,11 +19,7 @@ I love 🔥 working on Projects that can push my knowledge 🤯 to the next leve
 - 💪 Currently I'm working as web developer
 - 💰 Looking for new opportunities who wants to work with me
 - 🤲 I'm looking forward to collaborate on any Open Source project which I consider it interesting
-- 💉 Addicted with code
-- 🏆 2025 Goals:
-  - To be an AI engineer.
-  - Contribute and publish more open source projects.
- 
+- 💉 Addicted with code 
   - <h3 align="left">Ping Me On</h3>
 <!-- <a href="https://www.linkedin.com/in/getmihir/">
   <img align="left" alt="Mihir's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
